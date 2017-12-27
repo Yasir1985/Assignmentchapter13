@@ -1,0 +1,18 @@
+
+		
+			body{
+				background-image:url("../Images/ybackground.png");
+			}
+				
+			h1{
+				
+				text-align:center;
+				margin:22%;
+				font-family:Comic Sans MS;
+				color:white;
+			}
+			h1:hover{
+				color:green;
+				cursor:pointer;
+				}
+			
